@@ -1,0 +1,50 @@
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+.buton button {
+    color: white;
+    background-color: rgb(155, 151, 151);
+    border: solid 1px rgb(139, 120, 67);
+    border-radius: 30px;
+    height: 25px;
+    margin: 5px;
+    width: 130px;
+}
+
+#delete {
+    margin-left: 170px;
+}
+
+.buton button:first-child {
+    margin-left: 100px;
+}
+
+.input input {
+    color: white;
+    background-color: rgb(190, 94, 99);
+    border: solid 1px rgb(73, 34, 34);
+    border-radius: 5px;
+    height: 20px;
+    margin: 5px;
+    text-align: center;
+    width: 120px;
+}
+
+.input input:first-child {
+    margin-left: 105px;
+}
+
+.rez input {
+    color: white;
+    background-color: rgb(190, 94, 99);
+    border: solid 1px rgb(73, 34, 34);
+    border-radius: 5px;
+    height: 20px;
+    margin: 5px;
+    margin-left: 170px;
+    text-align: center;
+    width: 120px;
+}
